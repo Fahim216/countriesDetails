@@ -1,0 +1,16 @@
+.dev{
+    height: 50%;
+    width:50%;
+    border: 1px solid red;
+    
+   
+}
+img{
+    padding:10px;
+    
+}
+.fahim{
+    display:flex;
+    border:1px solid grey;
+    margin: 20px;
+}
